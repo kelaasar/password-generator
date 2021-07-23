@@ -6,7 +6,7 @@ import random
 def main():
     string_list = ""
 
-    symbols = "!@#$%&!@#$%&!@#$%&!@#$%&"
+    symbols = "!@#$%&!@#$%&!@#$%&"
     numbers = "12345678901234567890"
     lower_case = "abcdefghijklmnopqrstuvwxyz"
     upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
